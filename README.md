@@ -1,4 +1,4 @@
-# nginx-redirect
+# nginx-redirect (arm arch compatible)
 A very simple redirector using nginx and Docker
 
 ```
