@@ -1,4 +1,4 @@
-FROM arm64v8/nginx
+FROM arm64v8/nginx:1-alpine
 
 COPY default.conf /etc/nginx/conf.d/
 COPY nginx.conf /etc/nginx/
